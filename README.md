@@ -3,7 +3,7 @@
 
 **shxbby/khanshaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/07/00/66/32/1000_F_700663280_vmE4aHL2TCzDxEBv1lbFghPweBbx6I0L.jpg)]
+
 <h1 align="center">Hi 👋, I'm Khan Shaban </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
